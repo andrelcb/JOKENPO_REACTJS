@@ -1,0 +1,5 @@
+PROJETO FEITO EM REACT/TYPESCRIPT JO KEN PO... ✌️
+
+vite
+
+npm run dev
